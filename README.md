@@ -52,7 +52,7 @@ Each item below includes:
 
 ## 🛠 Tech Stack
 
-- **Language:** JavaScript (ES6+)
+- **Language:** Python
 - **Editor:** VSCode
 - **Platform:** GitHub + YouTube
 
