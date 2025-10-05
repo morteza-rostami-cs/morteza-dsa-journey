@@ -1,11 +1,9 @@
----
-
-```markdown
 # 🧩 Data Structures & Algorithms Challenges
 
 This repository is my **personal DSA practice log**.  
 I’m solving challenges regularly, documenting my solutions, and uploading short explanation videos on YouTube.  
 Each item below includes:
+
 - 🧠 **Challenge name**
 - 📄 **Short problem description**
 - 💻 **My solution file (local repo link)**
@@ -73,7 +71,3 @@ a full-stack developer passionate about clean, well-documented code and sharing 
 ---
 
 > “One challenge a day keeps the bugs away.” 🐛
-
-```
-
-```
